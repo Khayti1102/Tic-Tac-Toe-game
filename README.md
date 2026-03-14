@@ -8,13 +8,13 @@ A simple web-based implementation of the classic Tic-Tac-Toe Game using HTML, CS
 HTML, CSS, JavaScript
  
 ##Features
-* [ ] 3x3 Grid Board
-* [ ] Two-Player Mode: taking turns ("X" and "O").
-* [ ] Turn Management
-* [ ] Move Validation
-* [ ] Draw Detection
-* [ ] Draw Detection
-* [ ] Game Status Display
-* [ ] Reset Functionality
+* [x] 3x3 Grid Board
+* [x] Two-Player Mode: taking turns ("X" and "O").
+* [x] Turn Management
+* [x] Move Validation
+* [x] Draw Detection
+* [x] Draw Detection
+* [x] Game Status Display
+* [x] Reset Functionality
  
 
