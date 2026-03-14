@@ -4,10 +4,10 @@ A simple web-based implementation of the classic Tic-Tac-Toe Game using HTML, CS
 ## Check live preview here :
 [Click Here](https://khayti1102.github.io/Tic-Tac-Toe-game/)
 
-##Teach Stack
+## Teach Stack
 HTML, CSS, JavaScript
  
-##Features
+## Features
 * [x] 3x3 Grid Board
 * [x] Two-Player Mode: taking turns ("X" and "O").
 * [x] Turn Management
